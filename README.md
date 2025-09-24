@@ -1,3 +1,3 @@
 # ashwid-demo
 first repo
-auther - ashwid
+auther - ashwid (ibrahim)
